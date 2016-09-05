@@ -14,5 +14,7 @@
 //装配线调度
 void fasterWayTest(void);
 
+//矩阵链乘法
+void matrix_multiply(void);
 
 #endif /* DCTest_h */
